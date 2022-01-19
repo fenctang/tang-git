@@ -7,3 +7,8 @@ git add 準備
 git commit 確認宋出
 
 mkdir tang-git
+
+
+git remote add origin https://github.com/fenctang/tang-git.git
+git branch -M main
+git push -u origin main
